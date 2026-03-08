@@ -1,0 +1,5 @@
+{
+  "name": "Attendify - Smart Attendance System",
+  "description": "A comprehensive attendance mapping system with image capture, frame overlays, and backend database integration.",
+  "requestFramePermissions": ["camera", "geolocation"]
+}
